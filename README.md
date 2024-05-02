@@ -1,6 +1,6 @@
 # discord-ios
 ```
-pip install git+https://github.com/kysfr/discord-ios/
+pip install git+https://github.com/qerscam/discord-ios/
 ```
 
 ```py
